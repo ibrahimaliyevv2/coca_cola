@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url("../img/coca-background.webp");
+}
+
+body main #welcome .container .row .col-md-12 {
+  margin-top: 80px;
+}
+
+body main #welcome .container .row .col-md-12 h1 {
+  font-weight: 900;
+  font-size: 70px;
+}
+
+body main #welcome .container .row .col-md-12 .class-bold {
+  font-weight: bolder;
+  margin-bottom: 30px;
+}
+
+body main #welcome .container .row .col-md-12 button {
+  padding: 10px 30px;
+  border-radius: 25px;
+  font-size: 25px;
+}
+
+body main #form {
+  margin-top: 70px;
+}
+
+body main #form .container {
+  padding: 80px 30px;
+  position: relative;
+}
+
+body main #form .container .box-white {
+  position: absolute;
+  top: -65px;
+  left: 0;
+}
+
+body main #form .container .box-white button {
+  padding: 20px 70px;
+}
+/*# sourceMappingURL=style.css.map */
